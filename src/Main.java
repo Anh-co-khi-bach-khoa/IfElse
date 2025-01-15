@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
+        //add more comment
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Vui lòng nhập tuổi của bạn: ");
